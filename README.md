@@ -53,7 +53,7 @@ The analysis followed these steps:
 
 The full technical report is available in the repository:
 
-`report/wireshark_report.docx`
+`report/wireshark_report.pdf`
 
 ---
 
